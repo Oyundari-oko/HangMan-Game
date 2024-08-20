@@ -1,0 +1,52 @@
+{
+  "folders": [
+	{
+		"name": "oko folder",
+		"path": "../oko folder"
+	},
+	{
+		"name": "CSS Position folder",
+		"path": "../CSS Position folder"
+	},
+	{
+		"name": "Lemon press folder",
+		"path": "../Lemon press folder"
+	},
+	{
+		"path": "../RESPONSIVE.folder"
+	},
+	{
+		"path": "../ Animation.folder"
+	},
+	{
+		"path": "../Js.folder"
+	},
+	{
+		"path": "../Transition.folder"
+	},
+	{
+		"path": "../Array.folder"
+	},
+	{
+		"path": "../JS Function.folder"
+	},
+	{
+		"path": "../DOM.folder"
+	},
+	{
+		"path": "../Togloom.folder"
+	},
+	{
+		"path": "."
+	},
+	{
+		"path": "../Email.folder"
+	},
+	{
+		"path": "../todoList.folder"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "todoList.folder"
+  }
+}

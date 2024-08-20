@@ -1,0 +1,96 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(180, 217, 45);
+}
+h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  color: whitesmoke;
+}
+.box {
+  display: flex;
+  justify-content: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: whitesmoke;
+  gap: 15px;
+  font-size: 30px;
+}
+
+.box1 {
+  font-size: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(142, 177, 13);
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  gap: 10px;
+}
+
+.backgroundStyle {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(186, 229, 31);
+  border: solid white 1px;
+  border-radius: 5px;
+  height: 39px;
+  width: 45px;
+}
+.backgroundStyle:hover {
+  background-color: rgb(255, 253, 253);
+  border: solid rgb(216, 214, 214) 1px;
+
+  color: rgb(180, 217, 45);
+}
+
+.lettersStyle {
+  color: whitesmoke;
+  display: flex;
+  justify-content: center;
+
+  border-radius: 5px;
+  width: 45px;
+  height: 39px;
+}
+
+.lineStyle {
+  color: aliceblue;
+  font-size: 60px;
+}
+
+.textStyle {
+  display: flex;
+  justify-content: center;
+  color: whitesmoke;
+  font-size: 30px;
+  padding-top: 10vh;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.letter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-size: 30px;
+  gap: 20px;
+  color: white;
+  border-radius: 5px;
+  width: 40px;
+}
+.underLineStyle {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.country {
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-size: 30px;
+  padding-top: 20px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
